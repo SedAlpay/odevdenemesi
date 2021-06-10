@@ -98,7 +98,7 @@ namespace albumler_satisi
 
                     baglanti.Close();
 
-                    MessageBox.Show("Müşteri Başarıyla Silindi");
+                    MessageBox.Show("Müşteri Silindi");
                     listele();
 
                 }
